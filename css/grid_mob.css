@@ -19,11 +19,7 @@
     
     }
     
-    .main_flex{
-        display: grid;
-        grid-template-columns: auto auto;
-    
-    }
+
     
     /* h2{
         font-size: 100%;
