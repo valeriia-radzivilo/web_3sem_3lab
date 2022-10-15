@@ -35,7 +35,7 @@
     }
     
     .h1_fl {
-        display: grid;
+        /* display: grid; */
         height: fit-content;
     margin: 1%;
     text-align: right;
